@@ -1,0 +1,21 @@
+@import "~spinners-react/lib/SpinnerDotted.css";
+.nav-item {
+  cursor: pointer;
+}
+.news {
+  animation : slide 10s linear infinite;
+  color :blueviolet
+}
+
+@keyframes slide {
+  0% {
+    transform: translatex(0%)
+  }
+
+  100% {
+    transform: translatex(100%)
+  }
+}
+.not-allowed{
+  cursor: not-allowed;
+}
