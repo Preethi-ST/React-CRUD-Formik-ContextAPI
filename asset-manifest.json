@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-CRUD-Formik-ContextAPI/static/css/main.8d8a8cdb.chunk.css",
+    "main.js": "/React-CRUD-Formik-ContextAPI/static/js/main.0071b509.chunk.js",
+    "main.js.map": "/React-CRUD-Formik-ContextAPI/static/js/main.0071b509.chunk.js.map",
+    "runtime-main.js": "/React-CRUD-Formik-ContextAPI/static/js/runtime-main.85f3f87c.js",
+    "runtime-main.js.map": "/React-CRUD-Formik-ContextAPI/static/js/runtime-main.85f3f87c.js.map",
+    "static/css/2.e93ddbc3.chunk.css": "/React-CRUD-Formik-ContextAPI/static/css/2.e93ddbc3.chunk.css",
+    "static/js/2.3a2f929d.chunk.js": "/React-CRUD-Formik-ContextAPI/static/js/2.3a2f929d.chunk.js",
+    "static/js/2.3a2f929d.chunk.js.map": "/React-CRUD-Formik-ContextAPI/static/js/2.3a2f929d.chunk.js.map",
+    "static/js/3.348e7be4.chunk.js": "/React-CRUD-Formik-ContextAPI/static/js/3.348e7be4.chunk.js",
+    "static/js/3.348e7be4.chunk.js.map": "/React-CRUD-Formik-ContextAPI/static/js/3.348e7be4.chunk.js.map",
+    "index.html": "/React-CRUD-Formik-ContextAPI/index.html",
+    "static/css/2.e93ddbc3.chunk.css.map": "/React-CRUD-Formik-ContextAPI/static/css/2.e93ddbc3.chunk.css.map",
+    "static/css/main.8d8a8cdb.chunk.css.map": "/React-CRUD-Formik-ContextAPI/static/css/main.8d8a8cdb.chunk.css.map",
+    "static/js/2.3a2f929d.chunk.js.LICENSE.txt": "/React-CRUD-Formik-ContextAPI/static/js/2.3a2f929d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85f3f87c.js",
+    "static/css/2.e93ddbc3.chunk.css",
+    "static/js/2.3a2f929d.chunk.js",
+    "static/css/main.8d8a8cdb.chunk.css",
+    "static/js/main.0071b509.chunk.js"
+  ]
+}
